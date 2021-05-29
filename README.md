@@ -1,4 +1,4 @@
-## Hello world!, I am Sonali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <b><i>Hello world!, I am Sonali</i></b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p>I'm currently a software engineer based in India. I am working on some side projects, writing for podcasts to cheer people, and trying new things everyday.</p>
 
