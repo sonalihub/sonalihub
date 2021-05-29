@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello world!, I am Sonali <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+<p>I'm currently a software engineer based in India. I am working on some side projects, writing for podcasts to cheer people, and trying new things everyday.</p>
+
+<p><a href="https://open.spotify.com/show/6Ea10ZObGcJBF6QuxtcUcY?si=lV9Sfq8yRYqJb3aWmXmM4Q"><img src="https://img.shields.io/badge/-@Stanley%20Lim-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/show/6Ea10ZObGcJBF6QuxtcUcY?si=lV9Sfq8yRYqJb3aWmXmM4Q" alt="Spotify Badge"></a></p>
 
 <!--
 **sonalihub/sonalihub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
