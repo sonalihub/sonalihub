@@ -8,8 +8,8 @@
 <ul>
 <li>🔭 I am currently working on <a href="https://github.com/sonalihub/MicroservicesTutorials">Microservices</a>.</li>
 <li>🧐 Digging deeper into <strong>Springboot</strong>, <strong>Microservices</strong>, and a bit of <strong>Dockerization</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Spiderpig86">Github</a>.</li>
-<li>📝 I regulary write articles on <a href="https://blog.stanleylim.me">my blog</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/sonalihub">Github</a>.</li>
+<li>📝 I have my own podcast show called <a href="https://www.instagram.com/journeyoflifepodcast/">Journey of life</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 <li>🎉 Fun Fact: 我也会讲中文。</li>
