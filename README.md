@@ -11,8 +11,8 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/sonalihub">Github</a>.</li>
 <li>📝 I have my own podcast show called <a href="https://www.instagram.com/journeyoflifepodcast/">Journey of life</a>.</li>
 <li>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+ <!-- <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>-->
+
 </ul>
 <h2>✒️ Recent Posts</h2>
 <h2>🚀 Some Tools I Use</h2>
