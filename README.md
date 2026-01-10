@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Microservices+Enthusiast;Java+%7C+Spring+Boot;Kafka+%7C+Event+Driven+Systems;Always+Learning+New+Things&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Microservices+Enthusiast;Java+%7C+Spring+Boot;Kafka+%7C+Event+Driven+Systems;Professional+Event+Anchor;Always+Learning+New+Things&center=true&width=600&height=45">
 </p>
 
 <p align="center">
@@ -21,8 +21,12 @@
 <p align="center">
 I’m a software engineer based in <b>India 🇮🇳</b>, passionate about building scalable backend systems,
 clean APIs, and resilient microservices.
-<br/>
-Beyond tech, I write blogs ✍️ and host a podcast 🎙️ where I share stories, reflections, and real-life learnings.
+<br/><br/>
+Beyond tech, I’m also a <b>professional anchor</b> 🎤 who brings energy, warmth, and engagement to events.
+I have hosted <b>weddings, corporate events, product promotions, and private parties</b>, ensuring every event
+feels lively, seamless, and memorable.
+<br/><br/>
+I also write blogs ✍️ and host a podcast 🎙️ where I share stories, reflections, and real-life learnings.
 </p>
 
 <hr/>
@@ -57,7 +61,8 @@ Beyond tech, I write blogs ✍️ and host a podcast 🎙️ where I share stori
   <li>🔭 Working on <b>Microservices & Distributed Systems</b></li>
   <li>🧠 Exploring <b>Spring Boot, Kafka, Docker, Cloud & System Design</b></li>
   <li>👩‍💻 Building event-driven, scalable backend services</li>
-  <li>✍️ Writing personal and reflective blogs on <b>The Colorful Narrative</b></li>
+  <li>🎤 Professional anchor for <b>weddings, corporate events, product promotions & private parties</b></li>
+  <li>✍️ Writer at <b>The Colorful Narrative</b></li>
   <li>🎙️ Host of the podcast <b>Journey of Life</b></li>
   <li>💬 Ask me about <b>Java, Spring Boot, Kafka & Microservices</b></li>
 </ul>
@@ -70,4 +75,54 @@ Beyond tech, I write blogs ✍️ and host a podcast 🎙️ where I share stori
 <h4>💻 Languages & Backend</h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ma
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="35"/>
+</p>
+
+<h4>🧩 Frameworks & Messaging</h4>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="35"/>
+</p>
+
+<h4>🗄️ Databases & Caching</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="35"/>
+</p>
+
+<h4>☁️ DevOps & Cloud</h4>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="35"/>
+  <img src="https://raw.githubusercontent.com/github/explore/master/topics/aws/aws.png" width="35"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="35"/>
+</p>
+
+<hr/>
+
+<!-- ===================== GITHUB STATS ===================== -->
+<h2>📊 GitHub Stats</h2>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=sonalihub&show_icons=true&count_private=true"/>
+</p>
+
+<hr/>
+
+<!-- ===================== VISITORS ===================== -->
+<h2>👀 Profile Visitors</h2>
+
+<p>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=sonalihub.sonalihub"/>
+</p>
+
+<hr/>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+✨ <i>Designing event-driven systems. Writing stories. Bringing life to events.</i> ✨
+</p>
